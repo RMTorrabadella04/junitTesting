@@ -4,8 +4,8 @@
 
 | Estado | Ejemplo                          | Notas                                                                                      |
 |--------|----------------------------------|--------------------------------------------------------------------------------------------|
-| MAL    | 77873378R                        |                                                                                            |
-| BIEN   | 77873378S                        | Hay fallo en el uso de la letra del DNI, no comprueba que el uso de la letra sea equivalente al proceso de selección real |
+| BIEN    | 77873378R                        |                                                                                            |
+| BIEN   | 77873378S                        | Deberia estar MAL - Hay fallo en el uso de la letra del DNI, no comprueba que el uso de la letra sea equivalente al proceso de selección real |
 | MAL    | 0                                |                                                                                            |
 | MAL    | 0000000000                       |                                                                                            |
 | MAL    | 000000000000A                    |                                                                                            |
@@ -16,9 +16,9 @@
 
 | Estado | Ejemplo                          |
 |--------|----------------------------------|
-| MAL    | 0                                |
-| MAL    | 1                                |
-| MAL    | 2                                |
+| BIEN    | 0                                |
+| BIEN    | 1                                |
+| BIEN    | 2                                |
 | MAL    | P                                |
 | MAL    | -1                               |
 | MAL    | 3                                |
@@ -29,8 +29,8 @@
 
 | Estado | Ejemplo                          |
 |--------|----------------------------------|
-| MAL    | Nómina                           |
-| MAL    | Venta segunda mano               |
+| BIEN    | Nómina                           |
+| BIEN    | Venta segunda mano               |
 | MAL    | nómina                           |
 | MAL    | nomina                           |
 | MAL    | venta                            |
@@ -41,9 +41,9 @@
 
 | Estado | Ejemplo                          |
 |--------|----------------------------------|
-| MAL    | Vacaciones                       |
-| MAL    | Alquiler                         |
-| MAL    | Vicios                           |
+| BIEN    | Vacaciones                       |
+| BIEN    | Alquiler                         |
+| BIEN    | Vicios                           |
 | MAL    | vacaciones                       |
 | MAL    | alquiler                         |
 | MAL    | vicios                           |
@@ -54,7 +54,7 @@
 
 | Estado | Ejemplo                          | Notas                                                                                      |
 |--------|----------------------------------|--------------------------------------------------------------------------------------------|
-| MAL    | 0                                | A la hora de poner el ingreso o gasto te deja poner 0, no se hasta qué punto este mal    |
+| BIEN    | 0                                | Deberia estar MAL - A la hora de poner el ingreso o gasto te deja poner 0 |
 | BIEN   | 100                              |                                                                                            |
 | MAL    | -1                               |                                                                                            |
 | MAL    | A                                |                                                                                            |
