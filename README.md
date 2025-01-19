@@ -1,5 +1,13 @@
-<center>
+<style>
+.centered-code {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+</style>
 
+<pre class="centered-code">
 # CLASES DE EQUIVALENCIA
 
 ## INTRODUCCIÓN DEL DNI AL REGISTRARSE
@@ -64,5 +72,4 @@
 **PD**: Al hacer un ingreso este no se actualiza hasta que se hace un gasto.
 
 *Raúl Martín Torrabadella Mendoza*
-
-</center>
+</pre>
