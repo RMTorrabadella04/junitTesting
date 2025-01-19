@@ -1,3 +1,5 @@
+<div align="center">
+
 # CLASES DE EQUIVALENCIA
 
 ## INTRODUCCIÓN DEL DNI AL REGISTRARSE
@@ -62,3 +64,5 @@
 **PD**: Al hacer un ingreso este no se actualiza hasta que se hace un gasto.
 
 *Raúl Martín Torrabadella Mendoza*
+
+</div>
