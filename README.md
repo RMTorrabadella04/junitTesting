@@ -16,11 +16,8 @@
 | MAL    | AAAAAAAAA         |                                                                                                 |
 | MAL    | #/*-+?¿           |                                                                                                 |
 
-<div align="center">
 
 ## MENÚ DE SELECCIÓN DE INGRESOS/GASTOS/SALIR
-
-</div>
 
 | Estado | Ejemplo           |
 |--------|-------------------|
@@ -33,11 +30,9 @@
 | MAL    | 11                |
 | MAL    | #/*-+?¿           |
 
-<div align="center">
 
 ## MENÚ DE SELECCIÓN DE NÓMINA/VENTA SEGUNDA MANO
 
-</div>
 
 | Estado | Ejemplo               |
 |--------|-----------------------|
@@ -49,11 +44,9 @@
 | MAL    | 0                     |
 | MAL    | #/*-+?¿               |
 
-<div align="center">
 
 ## MENÚ DE SELECCIÓN DE VACACIONES/ALQUILER/VICIOS
 
-</div>
 
 | Estado | Ejemplo     |
 |--------|-------------|
@@ -66,11 +59,9 @@
 | MAL    | #/*-+?¿     |
 | MAL    | 0           |
 
-<div align="center">
 
 ## INTRODUCIR CANTIDADES
 
-</div>
 
 | Estado | Ejemplo | Notas                                                                                      |
 |--------|---------|--------------------------------------------------------------------------------------------|
