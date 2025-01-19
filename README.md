@@ -2,9 +2,9 @@
 
 # CLASES DE EQUIVALENCIA
 
-## INTRODUCCIÓN DEL DNI AL REGISTRARSE
-
 </div>
+
+## INTRODUCCIÓN DEL DNI AL REGISTRARSE
 
 | Estado | Ejemplo           | Notas                                                                                           |
 |--------|-------------------|-------------------------------------------------------------------------------------------------|
